@@ -65,3 +65,5 @@ sysinfo.txt
 crashlytics-build.properties
 
 
+# Assets (apenas p/ testar o push)
+Assets/ 
