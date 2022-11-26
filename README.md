@@ -33,7 +33,7 @@ found in the repository of the SEMEAR Group**, [Grupod-SEMEAR-USP/SARC2022][link
 ### **Swarm formation** 
 ![swarm](resources/gifs/fireViewSwarm.gif)
 
-- [] Return to the base 
+
 
 ## Features:
 
