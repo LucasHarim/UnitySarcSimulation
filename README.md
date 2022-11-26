@@ -38,13 +38,13 @@ found in the repository of the SEMEAR Group**, [Grupod-SEMEAR-USP/SARC2022][link
 ## Features:
 
 - [x] Aircraft flight
-- [] Aircraft control
+- [ ] Aircraft control
 - [x] Propeller rotation 
 - [x] Fire spots instances
 - [x] smoke effect
-- [] Fire propagation
+- [ ] Fire propagation
 - [x] Swarm formation
-- [] Swarm trajectories and movements
+- [ ] Swarm trajectories and movements
 
 
 
