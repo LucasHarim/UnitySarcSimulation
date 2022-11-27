@@ -37,11 +37,11 @@ found in the repository of the SEMEAR Group**, [Grupo-SEMEAR-USP/SARC2022][link_
 <!-- ![f450](resources/gifs/fireViewf450_gif02.gif) ![fireSegmentation](resources/gifs/fireSegmentation.gif) -->
 
 
-<div align = "center">
+
 
 ### **Swarm formation** 
 
-<img src = "None" width = 600/>
+<center><img src = "resources/gifs/fireViewSwarm.gif" width = 600/></center>
 
 </div>
 
