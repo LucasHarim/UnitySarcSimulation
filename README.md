@@ -24,7 +24,7 @@ found in the repository of the SEMEAR Group**, [Grupo-SEMEAR-USP/SARC2022][link_
 
 ## Phases of the mission implemented in Unity 
 
-The GIFs below illustrate some of the phases of the mission.
+The GIFs below illustrate some phases of the mission.
 
 ### **Airdrop** 
 
