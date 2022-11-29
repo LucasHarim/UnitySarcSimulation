@@ -2,7 +2,9 @@
 
 ## 2nd SARC-BARINet Simulation in Unity
 
-<center><img src = "resources/imgs/squadViewOnGround.png" width = 750/></center>
+
+
+<center><img src = "resources/imgs/squadViewOnGround.jpg" width = 750/></center>
 
 Unity scene and scripts of the NoFire Squad Project to the [2nd SARC-BARINet competition][link_sarc_page].
 
@@ -20,10 +22,11 @@ found in the repository of the SEMEAR Group**, [Grupo-SEMEAR-USP/SARC2022][link_
 
 [link_noFireSquad_repo]: https://github.com/Grupo-SEMEAR-USP/SARC2022
 
-## Phases of the mission implemented in Unity (for illustration purposes only)
+## Phases of the mission implemented in Unity 
 
+The GIFs below illustrate some of the phases of the mission.
 
-### **Aircraft Airdrop** 
+### **Airdrop** 
 
 <center><img src = "resources/gifs/airdrop.gif" width = 600 /></center>
 
